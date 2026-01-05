@@ -1,0 +1,17 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Data files (CSV, Excel)
+data/*.csv
+
+# Environment / virtual environment folders
+env/
+venv/
+
+# Jupyter Notebook checkpoints 
+.ipynb_checkpoints/
